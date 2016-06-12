@@ -1,0 +1,16 @@
+81    JYC
+157    KHJ
+8    abcde
+20    Good
+17    abc
+39    good
+18    aaa
+56    aaaa
+123    aaa
+3    aaaaaa
+3    aaaaaa
+96    aaa
+134    JYH
+56    aaa
+238    JYC
+1100    JYC
